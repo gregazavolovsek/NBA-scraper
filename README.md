@@ -1,4 +1,4 @@
-# NBA-scraper
+# 🏀 NBA-scraper 🏀
 Console application written in JAVA, for scraping 3-point average per game each season for a player entered as an argument.
 For web scraping I used JSOUP library.
 
